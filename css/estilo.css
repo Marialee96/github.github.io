@@ -1,0 +1,47 @@
+#container {
+    border: 1px solid black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#header {
+    background: rgb(56, 7, 36);
+    padding-top: 0%;
+    color: rgb(247, 244, 233);
+    border-radius: 5px;
+}
+
+#header #subtitle {
+    font-size: 10pt;
+}
+
+#estructura{
+    font-family: cursive;
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+}
+
+a {
+    color: darkred;
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(146, 138, 138);
+}
+a:after{
+    text-decoration: none;
+    color: darkred;
+}
+
+a:before{
+    text-decoration: none;
+    color: darkred;
+}
+
+#footer {
+    padding-top: 50px;
+}
