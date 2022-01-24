@@ -1,18 +1,24 @@
 #container {
     border: 1px solid black;
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
 }
 
 #header {
-    background: rgb(56, 7, 36);
+    background: rgb(1, 21, 44);
     padding-top: 0%;
     color: rgb(247, 244, 233);
     border-radius: 5px;
+    height: 100px;
+    font-weight: 900;
+    font-size: 20pt;
+    padding-top: 10px;
+
 }
 
 #header #subtitle {
     font-size: 10pt;
+   
 }
 
 #estructura{
